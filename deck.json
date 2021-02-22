@@ -38,7 +38,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50,
+                "perDay": 60,
                 "separate": true
             },
             "recover": 5,
@@ -64,7 +64,9 @@
         "FJtaP0ndp9yyd0M9QzgP1mhQHl58p3BdrgSw2CE1D6Q.original.fullsize.png",
         "V-e2fU7xG9iAtF2LxMNbO-a5qSKwBI9CAyuJ8QoNXUo.original.fullsize.png",
         "fTU21cMQivKSNvJJs01JilcAIyjOapAgIpvruYLjcKU.original.fullsize.png",
-        "paste-1c2a2382abb80b550cb828ce3673014b714a2edc.jpg"
+        "paste-1c2a2382abb80b550cb828ce3673014b714a2edc.jpg",
+        "paste-92a20839b5147fbcedb1f57ce48759642580ef2a.jpg",
+        "paste-b0ba116779dfdd10209665ad2ecb283941efadb5.jpg"
     ],
     "name": "Cvika::PSI",
     "note_models": [
@@ -115,7 +117,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "osy-3-tyden"
+                "psi-2-tyden"
             ],
             "tmpls": [
                 {
@@ -138,7 +140,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"V-e2fU7xG9iAtF2LxMNbO-a5qSKwBI9CAyuJ8QoNXUo.original.fullsize.png\">",
+                "<img src=\"V-e2fU7xG9iAtF2LxMNbO-a5qSKwBI9CAyuJ8QoNXUo.original.fullsize.png\"><br><img src=\"paste-b0ba116779dfdd10209665ad2ecb283941efadb5.jpg\"><br>",
                 "<img src=\"paste-1c2a2382abb80b550cb828ce3673014b714a2edc.jpg\">",
                 ""
             ],
@@ -151,7 +153,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"fTU21cMQivKSNvJJs01JilcAIyjOapAgIpvruYLjcKU.original.fullsize.png\">",
+                "<img src=\"fTU21cMQivKSNvJJs01JilcAIyjOapAgIpvruYLjcKU.original.fullsize.png\"><div><img src=\"paste-92a20839b5147fbcedb1f57ce48759642580ef2a.jpg\"><br></div>",
                 "<img src=\"FJtaP0ndp9yyd0M9QzgP1mhQHl58p3BdrgSw2CE1D6Q.original.fullsize.png\">",
                 ""
             ],
