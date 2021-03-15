@@ -1,5 +1,8 @@
 {
     "__type__": "Deck",
+    "activeTags": [
+        "psi-1-tyden"
+    ],
     "children": [],
     "crowdanki_uuid": "b8fbb8d2-7396-11eb-a4fa-38d5479d0148",
     "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
@@ -60,6 +63,7 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
+    "inactiveTags": [],
     "media_files": [
         "FJtaP0ndp9yyd0M9QzgP1mhQHl58p3BdrgSw2CE1D6Q.original.fullsize.png",
         "V-e2fU7xG9iAtF2LxMNbO-a5qSKwBI9CAyuJ8QoNXUo.original.fullsize.png",
@@ -117,7 +121,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-3-tyden"
+                "zum-5-tyden"
             ],
             "tmpls": [
                 {
