@@ -86,7 +86,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Liberation Sans",
